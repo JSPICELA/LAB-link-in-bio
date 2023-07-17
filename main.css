@@ -1,3 +1,24 @@
 body {
-  background-color: goldenrod;
+  background-color: #505050;
+  text-align: center;
+  color: white;
+}
+
+img {
+  border-radius: 50%;
+  width: 10rem;
+  height: 10rem;
+  margin-top: 1rem;
+}
+
+.container {
+  margin-top: 5re;
+}
+
+btn {
+  background-color: black;
+}
+
+#name {
+  margin-top: 1rem;
 }
